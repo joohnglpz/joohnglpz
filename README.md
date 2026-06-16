@@ -1,12 +1,12 @@
-# Olá, eu sou o João 💻
+João Pedro Gomes 💻
 
-📚 **Estudante de Análise e Desenvolvimento de Sistemas na UNISC** 🎓 **[Adicione aqui outro curso se tiver, ex: Técnico em Informática]**
+📚 **Estudante de Análise e Desenvolvimento de Sistemas na UNISC** 🎓
 
-Sou apaixonado por tecnologia e hardware.  
-Atualmente foco em construir aplicações completas, aplicando boas práticas e aprendizado contínuo.  
-Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos práticos.
+Por essência sou um entusiasta da área da tecnologia e computação.
+Desde sempre tive quande interesse e facilidade de aprendizado na minha área de interesse, o que me fez aprofundar os estudos na computação, na qual desejo seguir carreira profissional e acadêmica.
+Neste perfil eu adiciono, para além de meus estudos, projetos práticos daquilo em que tenho experiência.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-gomes-lopes-605692229)
 
 ---
 
@@ -14,7 +14,7 @@ Busco evoluir tanto no **back-end** quanto no **front-end**, sempre com projetos
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,python,react,nextjs,flutter,mysql,mongodb,docker,postman,vite,figma" />
+    <img src="https://skillicons.dev/icons?i=html5,css3,js,python,mysql,figma" />
   </a>
 </p>
 
