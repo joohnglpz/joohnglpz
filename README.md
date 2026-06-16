@@ -14,7 +14,7 @@ Neste perfil eu adiciono, para além de meus estudos, projetos práticos daquilo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html5,css3,js,python,mysql,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,figma" />
   </a>
 </p>
 
