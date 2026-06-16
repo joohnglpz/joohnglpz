@@ -21,7 +21,7 @@ Neste perfil eu adiciono, para além de meus estudos, projetos práticos daquilo
 ### 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=79C0FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joohnglpz&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=79C0FF" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=79C0FF&title_color=FFFFFF&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joohnglpz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=79C0FF&title_color=FFFFFF&include_all_commits=true" />
 </div>
